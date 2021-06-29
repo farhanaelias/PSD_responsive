@@ -1,0 +1,152 @@
+@media (min-width:0px) and (max-width:991px){
+    .navbar-nav{
+      text-align: center;
+    }
+    .nav-link {
+      display: inline-block;
+    }
+    .navbar-light .navbar-nav .nav-link {
+      margin-right: 0px;
+  }
+  .navbar-light .navbar-brand {
+    width: 40%;
+  }
+  .navbar-light .navbar-toggler {
+    color: transparent;
+  }
+  
+  .introduce {
+    text-align: center;
+    margin: 0 10px;
+  }
+  .introduce p {
+    text-align: justify;
+  }
+  .What_We_Do {
+    padding: 10px;
+  }
+  .image2{
+    margin-bottom: 15px;
+  }
+  .the_language {
+    text-align: center;
+    margin: 0 10px;
+  }
+  .ficon i {
+   
+    margin-left: 34%;
+  
+  }
+  
+  }
+  @media (min-width:0px) and (max-width:767px){
+    .image2 {
+      text-align: center;
+      padding: 0 10px;
+    }
+    .ficon i {
+        margin-left: 0;
+      }
+    
+  .spanish h1 {
+  text-align: center;
+  }
+    .mc{
+      margin-bottom: 20px;
+    }
+    .contact form {
+      margin: 0 10px;
+  }
+  .heading_three h1{
+    text-align: center;
+
+}
+
+.our_attorneys h5{
+    text-align:center;
+}
+p{
+    text-align: center;
+}
+.heading h1{
+    font-size:20px;
+    text-align: center;
+}
+  
+  
+  
+  
+ 
+  }
+  @media (min-width:0px) and (max-width:320px){
+    .heading_three h1{
+        text-align: center;
+        font-size:30px;
+    }
+    
+    .our_attorneys h5{
+        text-align:center;
+    }
+    p{
+        text-align: center;
+    }
+    .heading h1{
+        font-size:20px;
+        text-align: center;
+    }
+    
+   }
+   @media (max-width:320px){
+    
+   }
+  
+  
+   @media (min-width:321px) and (max-width:375px){
+       .heading_three{
+           text-align:center;
+           
+       }
+       .heading_three h1{
+           text-align: center;
+           font-size:40px;
+       }
+       .heading_three span{
+           align-items: center;
+       }
+       .our_attorneys h5{
+           text-align:center;
+       }
+       p{
+           text-align: center;
+       }
+       .ftext p{
+           text-align: center;
+       }
+       
+       .footer_background h3 {
+        padding: 10% 0;
+      }
+      .heading h1{
+          font-size:20px;
+          text-align: center;
+      }
+      .WWA p{
+          text-align:center;
+      }
+   
+  
+   }
+   @media (min-width:376px) and (max-width:425px){
+  
+   }
+   
+   @media (min-width:426px) and (max-width:768px){
+    
+    
+  }
+  @media (min-width:789px) and (max-width:1024px){
+    
+  }
+  @media (min-width:1440px){
+   
+  }
